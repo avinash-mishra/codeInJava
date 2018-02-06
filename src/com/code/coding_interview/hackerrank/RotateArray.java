@@ -1,4 +1,4 @@
-package com.code.dsAlgo;
+package com.code.coding_interview.hackerrank;
 
 /*
 Sample Input
