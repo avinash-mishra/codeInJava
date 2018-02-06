@@ -3,6 +3,9 @@ package com.code.concepts;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+Length of array, string and list
+ */
 public class Lenth {
     public static void main(String[] args) {
         int[] a = new int[10];
