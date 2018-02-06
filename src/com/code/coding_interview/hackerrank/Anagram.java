@@ -4,6 +4,16 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/*
+Sample Input
+str1 = "cde"
+str2 = "acpd"
+Delete number of characters to make both the string anagram. Anagram is a permuted string.
+
+o/p : 4
+explanation: "de"+"ap" should be deleted then both strings will be left with cd/cd which is an Anagram.
+*
+*/
 public class Anagram {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
